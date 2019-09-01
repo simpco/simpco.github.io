@@ -5,9 +5,7 @@ date: 2013-07-16
 Author: Shengbin 
 tags: [sample, markdown]
 comments: true
-;是否有目录
 toc: true
-;是否展示
 published: true
 ---
 
