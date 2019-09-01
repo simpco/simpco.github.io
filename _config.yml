@@ -7,7 +7,8 @@
 # 井号后面的文字是说明文档，不会被程序读取。
 name: SIMPLE HOME
 # 描述/签名
-description: 一个爱写不写，想起来就写，想起来不想写就不写，想起来想写又懒得写的BLOG
+#description: 一个爱写不写，想起来就写，想起来不想写就不写，想起来想写又懒得写的BLOG
+description: 天道好轮回，苍天饶过谁！
 
 #
 # 下面的设定都是可选的
@@ -56,7 +57,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # 站点页脚的文字
-footer-text: Copyright (c) 2019 来自中世界
+footer-text: Copyright (c) 2019
 
 # 评论，注意，请不要同时添加多种不同的评论区
 
