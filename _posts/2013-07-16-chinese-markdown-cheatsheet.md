@@ -5,8 +5,10 @@ date: 2013-07-16
 Author: Shengbin 
 tags: [sample, markdown]
 comments: true
+;是否有目录
 toc: true
-published: false
+;是否展示
+published: true
 ---
 
 本中文版Markdown语法简介来自博客 <https://blog.shengbin.me/posts/markdown-syntax>
