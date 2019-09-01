@@ -68,7 +68,7 @@ disqus: #shortname
 gitalk:
   clientID: 46a841e2a9597c63e6b2
   clientSecret: ec4d9085a1da0fd2099b8b1e304a70dcd63022fc
-  repo: https://github.com/simpco/simpco.github.io
+  repo: https://github.com/simpco/simpco.github.io.git
   owner: yeahliuyi@gmail.com
 
 # 输入Google Analytics web tracking code
